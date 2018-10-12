@@ -14,7 +14,7 @@
 * Contact numbers dialed from website itself no need to copy or note somewhere.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-### Features that can be implemnted
+### Features that can be implemented
 
 * Location Tracking and then providing appropriate info of Organizations and Doctors.
 * Any kind of Mind diverting activities online like games, Videos , etc.
