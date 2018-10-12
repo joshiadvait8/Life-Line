@@ -24,9 +24,9 @@
 
 ```sh
 $ git clone https://github.com/joshiadvait8/Life-Line.git
-1.Follow the steps provided in Setup.txt file
-to run the project locally
 ```
+- [ ] Follow the steps in setup.txt file.
+
 --------------------------------------------------------------------------------------------------------------------------------------
 ### Recognition / Credits
 > This Repository / Project was a part of `Hack N Code 2.0 2018 Hackathon` Organized by IET (Institute of Engineering & Technology) MPSTME on Campus at NMIMS Mumbai
