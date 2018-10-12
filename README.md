@@ -11,7 +11,7 @@
 * All organizations websites at one place.
 * Helpline 24 x 7 contact numbers of Non Profit Organizations.
 * Mental Health Doctors Contact Info.
-* Contact numbers dialed from website itself no need to copy or note somewhere.
+* Contact numbers dialed from website itself `no need to copy` or note somewhere.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ### Features that can be Implemented
@@ -29,7 +29,7 @@ to run the project locally
 ```
 --------------------------------------------------------------------------------------------------------------------------------------
 ### Recognition / Credits
-> This Repository / Project was a part of Hack N Code 2.0 2018 Hackathon Organized by IET(Institute of Engineering & Technology) MPSTME on Campus at NMIMS Mumbai
+> This Repository / Project was a part of `Hack N Code 2.0 2018 Hackathon` Organized by IET (Institute of Engineering & Technology) MPSTME on Campus at NMIMS Mumbai
 -----------------------------------------------------------------------------------------------------------------------------------------
 ### Note
  * This Project was done under `12 Hours`. :computer:
