@@ -1,6 +1,6 @@
 
 <h1 align="center">LifeLine</h1>
-<h4 align="center">Mental Heath Awareness website for Suicide Prevention</h4>
+<h4 align="center">Mental Health Awareness website for Suicide Prevention</h4>
 
 > In the Current Scenario, many people commit suicide Attempts due to various reasons. In Google there is no perfect solution to prevent these, so we have made an attempt to gather information at one place. There are many Non Profit Organizations available that can help in preventing suicide attempts by diverting minds of people for e.g. Aasara Foundation, etc. and Some Mental Health Doctors. :pill:
 <br><br>
